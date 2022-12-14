@@ -33,14 +33,23 @@ Phase 4 average voltage over last `cyclic message period` (V)
 
 #### Alarm message
 - **alarm_phase**
+- 
 Phase bit array for alarming phase
+
 1 -> Phase 1 in Alarm
+
 2 -> Phase 2 in Alarm
+
 4 -> Phase 3 in Alarm
+
 8 -> Phase 4 in Alarm
+
 9 -> Phase 1 and 4 in Alarm
+
 15 -> Phase 1, 2, 3, 4 in Alarm 
+
 ...
+
 - **phase1_alarm_rms_current**
 Phase 1 current when alarm was triggered (A)
 - **phase2_alarm_rms_current**
