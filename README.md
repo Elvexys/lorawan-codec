@@ -7,7 +7,9 @@ Some are splitted between encoding and decoding, according network server UI.
 
 ## Adding codec to network server 
 [ChirpStack v3](https://www.chirpstack.io/application-server/use/device-profiles/)
+
 [ChirpStack v4](https://www.chirpstack.io/docs/chirpstack/use/device-profiles.html#custom-javascript-codec-functions)
+
 [Things Stack](https://www.thethingsindustries.com/docs/integrations/payload-formatters/)
 
 For others, you can adapt the generic one, PR welcome ;-)
